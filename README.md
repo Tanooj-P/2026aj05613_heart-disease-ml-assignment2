@@ -41,9 +41,7 @@ Predict the presence or absence of heart disease in a patient based on clinical 
 
 ## c. GitHub Repository Link
 
-**Repository:** [https://github.com/YOUR_USERNAME/heart-disease-ml-assignment](https://github.com/YOUR_USERNAME/heart-disease-ml-assignment)
-
-*(Replace YOUR_USERNAME with your actual GitHub username after pushing)*
+**Repository:** [[https://github.com/YOUR_USERNAME/heart-disease-ml-assignment](https://github.com/Tanooj-P/2026aj05613_heart-disease-ml-assignment2.git)]([https://github.com/YOUR_USERNAME/heart-disease-ml-assignment](https://github.com/Tanooj-P/2026aj05613_heart-disease-ml-assignment2.git))
 
 ---
 
@@ -86,29 +84,10 @@ Five classification models were trained on an 80-20 train-test split (stratified
 
 ---
 
-## f. How to Run Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/heart-disease-ml-assignment.git
-cd heart-disease-ml-assignment
-
-# Install dependencies
-pip install -r requirements.txt
-
-# (Optional) Retrain models
-python train_models.py
-
-# Run the Streamlit app
-streamlit run app.py
-```
-
----
-
 ## g. Project Structure
 
 ```
-heart-disease-ml-assignment/
+2026aj05613_heart-disease-ml-assignment2/
 ├── app.py                  # Streamlit web application
 ├── train_models.py         # Model training script
 ├── requirements.txt        # Python dependencies
@@ -130,15 +109,14 @@ heart-disease-ml-assignment/
 
 ## h. Live Streamlit App
 
-**Deployed App:** [https://YOUR_APP_URL.streamlit.app](https://YOUR_APP_URL.streamlit.app)
+**Deployed App:** [https://2026aj05613heart-disease-ml-assignment2.streamlit.app/)
 
-*(Replace with actual URL after deploying on Streamlit Community Cloud)*
 
 ---
 
 ## Technologies Used
 
-- Python 3.10+
+- Python
 - Streamlit
 - scikit-learn
 - pandas, NumPy
