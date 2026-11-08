@@ -41,7 +41,7 @@ Predict the presence or absence of heart disease in a patient based on clinical 
 
 ## c. GitHub Repository Link
 
-**Repository:** [[https://github.com/YOUR_USERNAME/heart-disease-ml-assignment](https://github.com/Tanooj-P/2026aj05613_heart-disease-ml-assignment2.git)]([https://github.com/YOUR_USERNAME/heart-disease-ml-assignment](https://github.com/Tanooj-P/2026aj05613_heart-disease-ml-assignment2.git))
+**Repository:** [(https://github.com/Tanooj-P/2026aj05613_heart-disease-ml-assignment2.git)]((https://github.com/Tanooj-P/2026aj05613_heart-disease-ml-assignment2.git))
 
 ---
 
